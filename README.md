@@ -1,5 +1,3 @@
-# Research_Paper_on_Mobile_Security
-
 # AI and Tools in Education README
 
 This repository contains information about Artificial Intelligence (AI) and various tools used in the education domain. It covers an overview of AI, tools supporting AI, and successful AI tools in the education sector.
